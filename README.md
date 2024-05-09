@@ -1,3 +1,4 @@
+![3-tier architechture](https://miro.medium.com/v2/resize:fit:1400/0*5CmQatFBgeL7xtJX.png)
 # prerequisites
 
 kubectl – A command line tool for working with Kubernetes clusters. For more information, see Installing or updating kubectl.
